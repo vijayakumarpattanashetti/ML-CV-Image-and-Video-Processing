@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Dec 11 12:35:41 2019
-
-@author: ASUS
-"""
-
 import numpy as np
 import cv2
 
