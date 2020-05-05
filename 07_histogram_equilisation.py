@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Dec  1 17:45:26 2019
-
-@author: ASUS
-"""
-
 import cv2
 import numpy as np
 from matplotlib import pyplot as plt
