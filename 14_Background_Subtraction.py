@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Dec  1 19:25:43 2019
-
-@author: ASUS
-"""
-
 import cv2 
 cap = cv2.VideoCapture(0) 
 fgbg = cv2.bgsegm.createBackgroundSubtractorGMG() #alterantively, cv2.createBackgroundSubtractorMOG2()
