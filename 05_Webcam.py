@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Nov 29 12:32:49 2019
-
-@author:Sudip
-"""
-
 import cv2
 
 cam = cv2.VideoCapture(0)
