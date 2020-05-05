@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Dec 17 16:21:40 2019
-
-@author: ASUS
-"""
-
 import cv2
 
 img = cv2.imread('5_op(pic_0).png', cv2.IMREAD_UNCHANGED)
