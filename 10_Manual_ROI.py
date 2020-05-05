@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Dec  1 19:07:21 2019
-
-@author: ASUS
-"""
 import cv2
 
 refPt = []
