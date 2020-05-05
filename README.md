@@ -31,16 +31,16 @@ Video Processing (mp4 and livestream)
 18. Blob Detection
 19. CAMShift Tracking
 
-Language: Python 3
-Python Version: 3.7
-Spyder version: 4.1.2
-Additional Packages to be installed: opencv, tensorflow, keras
-*Note: Anaconda comes with numpy(in-built)
+Language: Python 3 <br>
+Python Version: 3.7 <br>
+Spyder version: 4.1.2 <br>
+Additional Packages to be installed: opencv, tensorflow, keras <br>
+*Note: Anaconda comes with numpy(in-built) <br>
 
 Instructions:
 
 1. Download Anaconda on their official website (https://www.anaconda.com/products/individual).
-2. To install any new packages close anaconda entirely, and open anaconda command prompt to install via command as shown below:
-     conda install -channel conda-forge <package/s> (eg., conda install -c conda-forge opencv)
+2. To install any new packages close anaconda entirely, and open anaconda command prompt to install via command as shown below: <br>
+     conda install -channel conda-forge <package/s> (eg., conda install -c conda-forge opencv) <br>
     Note: Do update anaconda before installing packages, if required.
 
